@@ -1,0 +1,122 @@
+{
+    "doublyLinkedList": [
+      {
+        "testCase1": [
+          {
+            "insertAtTail": 10
+          },
+          {
+            "insertAtHead": 100
+          },
+          {
+            "insertAtTail": 20
+          }
+        ],
+        "testCase2": [
+          {
+            "insertAtHead": 30
+          },
+          {
+            "insertAtTail": 40
+          },
+          {
+            "insertAtTail": 50
+          },
+          {
+            "insertAtHead": 1000
+          },
+          {
+            "deleteNode": 30
+          }
+        ],
+        "testCase3": [
+          {
+            "insertAtHead": 30
+          },
+          {
+            "insertAtTail": 60
+          },
+          {
+            "insertAtHead": 1000
+          },
+          {
+            "moveToHead": 60
+          }
+        ],
+        "testCase4": [
+          {
+            "insertAtHead": 90
+          },
+          {
+            "insertAtTail": 40
+          },
+          {
+            "insertAtTail": 50
+          },
+          {
+            "insertAtTail": 60
+          },
+          {
+            "insertAtHead": 1000
+          },
+          {
+            "moveToTail": 50
+          }
+        ],
+        "testCase5": [
+          {
+            "insertAtHead": 90
+          },
+          {
+            "insertAtTail": 40
+          },
+          {
+            "insertAtTail": 50
+          },
+          {
+            "insertAtTail": 60
+          },
+          {
+            "deleteHeadNode": 0
+          }
+        ],
+        "testCase6": [
+          {
+            "insertAtHead": 30
+          },
+          {
+            "insertAtTail": 40
+          },
+          {
+            "insertAtTail": 50
+          },
+          {
+            "insertAtTail": 60
+          },
+          {
+            "insertAtHead": 1000
+          },
+          {
+            "deleteTailNode": 0
+          }
+        ],
+        "testCase7": [
+          {
+            "insertAtTail": 40
+          },
+          {
+            "insertAtTail": 50
+          },
+          {
+            "insertAtTail": 60
+          },
+          {
+            "insertAtHead": 1000
+          },
+          {
+            "deleteTailNode": 0
+          }
+        ]
+      }
+    ]
+}
